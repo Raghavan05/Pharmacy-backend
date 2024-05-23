@@ -1,0 +1,401 @@
+[
+    {
+        "name": "Centrum Women",
+        "price": 245.67,
+        "smallDescription":"Multivitamin with Biotin, Vitamin C & 21 vital Nutrients for Overall Health, Radiance, Strong Bones & Immunity (Veg) Pack of 30 Tablets",
+        "description": "World’s No.1 multivitamin, Centrum presents Centrum Women Multivitamin & Multimineral Supplement, now in India. One bottle with 30 tablets. Take one per day. TO SUPPORT YOUR OVERALL HEALTH: Centrum Women, Multivitamin and Multimineral daily supplement is formulated with 23 essential Vitamins and Minerals to ensure overall health.",
+        "rating": 2,
+        "images": [
+            {
+                "image": "/assests/img/Webp/product_20.jpg"
+            },
+            {
+                "image": "/assests/img/Webp/product_20.jpg"
+            }
+        ],
+        "category": "Medical food",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "Centrum Men",
+        "price": 245.67,
+        "smallDescription":"Multivitamin with Biotin, Vitamin C & 21 vital Nutrients for Overall Health, Radiance, Strong Bones & Immunity (Veg) Pack of 30 Tablets",
+        "description": "OPPO F21s Pro 5G is a powerful device with a RAM extension feature, that offers brilliant operational speed to users.",
+        "rating": 4.5,
+        "images": [
+            {
+                "image": "/assests/img/Webp/product_19.jpg"
+            },
+            {
+                "image": "/assests/img/Webp/product_19.jpg"
+            }
+        ],
+        "category": "Medical food",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "Himalayan Organics vitamin E",
+        "price": 245.67,
+        "smallDescription":"Multivitamin with Biotin, Vitamin C & 21 vital Nutrients for Overall Health, Radiance, Strong Bones & Immunity (Veg) Pack of 30 Tablets",
+        "description": "Himalayan Organics Plant-based Vitamin E Capsule is a fat-soluble antioxidant and essential nutrient for healthy skin, hair, and nail health. These organic capsules are enriched with botanics like argan oil, aloe vera, and sunflower oil to aid in fighting cell-damaging free radicals that cause oxidative stress in the body.",
+        "rating": 4.5,
+        "images": [
+            {
+                "image": "/assests/img/Webp/product_18.jpg"
+            },
+            {
+                "image": "/assests/img/Webp/product_18.jpg"
+            }
+        ],
+        "category": "Medical accesories",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "Horlicks diabetes",
+        "price": 245.67,
+        "smallDescription":"Multivitamin with Biotin, Vitamin C & 21 vital Nutrients for Overall Health, Radiance, Strong Bones & Immunity (Veg) Pack of 30 Tablets",
+        "description": "Horlicks Diabetes Plus is a nutritional beverage which has been designed for Indian adults. It is scientifically formulated to support dietary management of at risk and diabetic individuals. It contains high fibre(22% of dual blend fibre - Fibersol-2 and Nutriose®^ ).Research has shown that diet rich in fibre helps reduce glucose and lipids in blood*.Horlicks Diabetes Plus is high in protein and contains 16 vital nutrients. These fibres are known to promote satiety and reduce calorie intake.",
+        "rating": 4.5,
+        "images": [
+            {
+                "image": "/assests/img/Webp/product_17.jpg"
+            },
+            {
+                "image": "/assests/img/Webp/product_17.jpg"
+            }
+        ],
+        "category": "Medical food",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "Sheopal's Herbal Diabdex Diabetes Capsule (60 Capsules)",
+        "price": 245.67,
+        "smallDescription":"Multivitamin with Biotin, Vitamin C & 21 vital Nutrients for Overall Health, Radiance, Strong Bones & Immunity (Veg) Pack of 30 Tablets",
+        "description": "Diabetes capsules are dietary supplements designed to support people with diabetes in managing their blood sugar levels. Control sugar level: its products contain natural ingredients and vitamin & mineral which helps to maintain blood sugar level.",
+        "rating": 4.5,
+        "images": [
+            {
+                "image": "/assests/img/Webp/product_16.jpg"
+            },
+            {
+                "image": "/assests/img/Webp/product_16.jpg"
+            }
+        ],
+        "category": "Tablets",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "Muuscleblaze FishOil",
+        "price": 245.67,
+        "smallDescription":"Multivitamin with Biotin, Vitamin C & 21 vital Nutrients for Overall Health, Radiance, Strong Bones & Immunity (Veg) Pack of 30 Tablets",
+        "description": "fish oil capsules men women omega triple strength tablets supplements bodybuilding softgel omega3 fish oil capsules men women omega triple strength tablets supplements bodybuilding softgel omega3 fish oil capsules men women omega triple strength tablets supplements bodybuilding softgel omega3 Joint Health MuscleBlaze Fish Oil Gold is a boon for all bodybuilders involved in heavy-duty workouts. EPA and DHA in Omega 3 fish oil help strengthen bones and joints by enhancing their flexibility & soothing joint inflammation.",
+        "rating": 4.5,
+        "images": [
+            {
+                "image": "/assests/img/Webp/product_15.jpg"
+            },
+            {
+                "image": "/assests/img/Webp/product_15.jpg"
+            }
+        ],
+        "category": "Supplements",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "Muuscleblaze Multi vitamin",
+        "price": 245.67,
+        "smallDescription":"Multivitamin with Biotin, Vitamin C & 21 vital Nutrients for Overall Health, Radiance, Strong Bones & Immunity (Veg) Pack of 30 Tablets",
+        "description": "MuscleBlaze MB-Vite Daily Multivitamin just got better and stronger with the same quality premium ingredients but an even better formulation. Crafted for people who want to live an active lifestyle, this multivitamin pack has all your essentials with 6 unique blends & 50+ ingredients to upkeep key micro-nutrients and amino acids in your body.",
+        "rating": 4.5,
+        "images": [
+            {
+                "image": "/assests/img/Webp/product_14.jpg"
+            },
+            {
+                "image": "/assests/img/Webp/product_14.jpg"
+            }
+        ],
+        "category": "Supplements",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "Wellman multi vitamin",
+        "price": 245.67,
+        "smallDescription":"Multivitamin with Biotin, Vitamin C & 21 vital Nutrients for Overall Health, Radiance, Strong Bones & Immunity (Veg) Pack of 30 Tablets",
+        "description": "Boost Energy and Reduce Fatigue: Wellman is a powerful multivitamin for men that combines ginseng with essential micronutrients to boost energy release and reduce fatigue, helping you stay active and focused throughout the day.",
+        "rating": 4.5,
+        "images": [
+            {
+                "image": "/assests/img/Webp/product_13.jpg"
+            },
+            {
+                "image": "/assests/img/Webp/product_13.jpg"
+            }
+        ],
+        "category": "Supplements",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "Glutathione skin brightening",
+        "price": 245.67,
+        "smallDescription":"Multivitamin with Biotin, Vitamin C & 21 vital Nutrients for Overall Health, Radiance, Strong Bones & Immunity (Veg) Pack of 30 Tablets",
+        "description": "POWERFUL ANTIOXIDANT SUPPORT: Health Veda Organics Glutathione Builder Capsules helps to maintain youthfulness, skin elasticity, firmness and hydration. Potent antioxidants like grape seed extract, Vitamin C, and Vitamin E in these capsules help reduce melanin production responsible for skin darkening and dullness.",
+        "rating": 4.5,
+        "images": [
+            {
+                "image": "/assests/img/Webp/product_12.jpg"
+            },
+            {
+                "image": "/assests/img/Webp/product_12.jpg"
+            }
+        ],
+        "category": "Beauty",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "ZEROHARM HoloDiabetis",
+        "price": 245.67,
+        "smallDescription":"Multivitamin with Biotin, Vitamin C & 21 vital Nutrients for Overall Health, Radiance, Strong Bones & Immunity (Veg) Pack of 30 Tablets",
+        "description": "ZEROHARM IRON WITH ZINC & FOLIC ACID, BRIMMING WITH NATURAL GOODNESS. Unlike regular iron supplements that’re chemically sourced from ores and rocks, ZeroHarm Iron is 100% plant-based. Powered with the goodness of Curry leaves, Guava leaves, Yashtimadhu, Acerola cherry, Algae. Helps fight anemia, boosts energy and strength, enhances brain function, boosts athletic performance, enhances pregnancy health, improves immunity and more.",
+        "rating": 4.5,
+        "images": [
+            {
+                "image": "/assests/img/Webp/product_11.webp"
+            },
+            {
+                "image": "/assests/img/Webp/product_11.webp"
+            }
+        ],
+        "category": "Tablets",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "ZEROHARM Holistic Berberine tablets | Berberine extract supplement ",
+        "price": 245.67,
+        "smallDescription":"Multivitamin with Biotin, Vitamin C & 21 vital Nutrients for Overall Health, Radiance, Strong Bones & Immunity (Veg) Pack of 30 Tablets",
+        "description": "HOLISTIC BERBERINE. YOUR HEART IS IN THE RIGHT PLACE. ZeroHarm Holistic Berberine supplement is a 100% plant-based, science-backed, precision nutraceutical capable of delivering a multitude of benefits. Powered with diabetes management and heart health enhancing properties, lowers bad cholesterol & triglyceride levels, balances sugar levels, improves insulin sensitivity, boosts immunity, manages weight, fights fatty liver and more.",
+        "rating": 4.5,
+        "images": [
+            {
+                "image": "/assests/img/Webp/product_10.jpg"
+            },
+            {
+                "image": "/assests/img/Webp/product_10.jpg"
+            }
+        ],
+        "category": "Supplements",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "ZEROHARM HoloDiabetis ",
+        "price": 245.67,
+        "smallDescription":"Multivitamin with Biotin, Vitamin C & 21 vital Nutrients for Overall Health, Radiance, Strong Bones & Immunity (Veg) Pack of 30 Tablets",
+        "description": "HoloDiabetis contains natural herbal extracts, such as Syzygium Cumini (jamun), Ashwagandha, and Shatavari. HoloDiabetis' natural ingredients also aid in regulating liver and pancreas functioning, improving insulin sensitivity and activity, boosting immunity, and relieving stress and anxiety. Treatment of pre sugar and type 2 Sugar stage with nutraceuticals is more effective than with Ayurvedic medicine.",
+        "rating": 4.5,
+        "images": [
+            {
+                "image": "/assests/img/Webp/product_09.jpg"
+            },
+            {
+                "image": "/assests/img/Webp/product_09.jpg"
+            }
+        ],
+        "category": "Tablets",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "Dr. Morepen BG-03 Gluco One Glucometer Combo, 50 Strips",
+        "price": 245.67,
+        "smallDescription":"Multivitamin with Biotin, Vitamin C & 21 vital Nutrients for Overall Health, Radiance, Strong Bones & Immunity (Veg) Pack of 30 Tablets",
+        "description": "Dr. Morepen Blood Glucose Monitor Model BG 03 is an Auto Code Monitor that requires a very tiny blood sample (0.5ul only) and shows the test result in just 5 seconds. It also has a large memory and can store up to 300 test results. It is a light weight, simple and accurate device to monitor blood glucose levels.",
+        "rating": 4.5,
+        "images": [
+            {
+                "image": "/assests/img/Webp/product_08.jpg"
+            },
+            {
+                "image": "/assests/img/Webp/product_08.jpg"
+            }
+        ],
+        "category": "Medical accesories",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "Gynoveda Liver Detox Ayurvedic Supplement Beneficial For Fatty Liver.",
+        "price": 250.45,
+        "smallDescription":"Multivitamin with Biotin, Vitamin C & 21 vital Nutrients for Overall Health, Radiance, Strong Bones & Immunity (Veg) Pack of 30 Tablets",
+        "description": "Derived from ancient scripture Charak Samhita Clinical research published in ResearchGate, NCBI FDA approved. GMP Certified Tested for Safety, Purity, Potency Toxin-free. Zero Side-effects",
+        "rating": 4,
+        "images": [
+          {
+            "image": "/assests/img/Webp/product_07.jpg"
+          }
+        ],
+        "category": "Ayurvedha",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+      },
+      {
+        "name": "FYTIKA Let it Melt Weight Management Formula ",
+        "price": 15.46,
+        "smallDescription":"Multivitamin with Biotin, Vitamin C & 21 vital Nutrients for Overall Health, Radiance, Strong Bones & Immunity (Veg) Pack of 30 Tablets",
+        "description": "HELPS IN LOSING FAT NATURALLY: As this product contains all the natural ingredients like Garcinia Cambogia Extract, Green Coffee Extract, Triphala Extract, Kali Jeeri, Piperine, etc, It helps in weight loss naturally without impacting overall health.",
+        "rating": 5,
+        "images": [
+            {
+                "image": "/assests/img/Webp/product_06.jpg"
+            }
+        ],
+        "category": "Tablets",
+        "seller": "Amazon",
+        "stock": 4,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+      {
+        "name": "CLA Core",
+        "price": 15.46,
+        "smallDescription":"Multivitamin with Biotin, Vitamin C & 21 vital Nutrients for Overall Health, Radiance, Strong Bones & Immunity (Veg) Pack of 30 Tablets",
+        "description": "Scitron's CLA features a 1000mg blend of Conjugated Linoleic Acid (CLA) & Medium Chain Triglycerides (MCT) Powder per serving. Conjugated Linoleic Acid is a naturally occurring fatty acid found in several foods and has been shown in many clinical studies to support lean body composition. Based on research, CLA has shown to increased satiety and reduced energy intake, indicating a potential role in maintenance of energy balance. MCT help to reduce levels of cholesterol and other fats in the blood.",
+        "rating": 5,
+        "images": [
+            {
+                "image": "/assests/img/Webp/product_05.png"
+            }
+        ],
+        "category": "Supplements",
+        "seller": "Amazon",
+        "stock": 4,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "Poo Pourri",
+        "price": 10.12,
+        "smallDescription":"Multivitamin with Biotin, Vitamin C & 21 vital Nutrients for Overall Health, Radiance, Strong Bones & Immunity (Veg) Pack of 30 Tablets",
+        "description": "It uses a proprietary blend of essential oils and other natural compounds, which work by forming a protective film on the surface of the toilet bowl water, trapping odours below after you complete your business and 'file the paperwork', as their tongue-in-cheek advertisements tell us.",
+        "rating": 3,
+        "images": [
+            {
+                "image": "/assests/img/Webp/product_04.png"
+            }
+        ],
+        "category": "Tablets",
+        "seller": "Ebay",
+        "stock": 6,
+        "numOfReviews": 9,
+        "reviews": []
+    },
+    {
+        "name": "Cetyl Pure capsule",
+        "price": 767.32,
+        "smallDescription":"Multivitamin with Biotin, Vitamin C & 21 vital Nutrients for Overall Health, Radiance, Strong Bones & Immunity (Veg) Pack of 30 Tablets",
+        "description": "Autoimmune disorders (the one that is with me is ankylosing spondylitis) require some constants the duration of our lives. I've learned about shocking bromelain (2400 GDU minimum), digestive enzymes, & this product. ",
+        "rating": 5,
+        "images": [
+          {
+            "image": "/assests/img/Webp/product_03.png"
+          }
+        ],
+        "category": "Tablets",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Chanca Peidra",
+        "price": 440.57,
+        "smallDescription":"Multivitamin with Biotin, Vitamin C & 21 vital Nutrients for Overall Health, Radiance, Strong Bones & Immunity (Veg) Pack of 30 Tablets",
+        "description": "Chanca piedra has traditionally been used for kidney stones. It's thought that chanca piedra contains chemicals that might relieve spasms and increase urine. It is also thought to have activity against bacteria and viruses.",
+        "rating": 3,
+        "images": [
+            {
+                "image": "/assests/img/Webp/product_02.png"
+            }
+        ],
+        "category": "Beauty",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "BioDerma",
+        "price": 150.32,
+        "smallDescription":"Multivitamin with Biotin, Vitamin C & 21 vital Nutrients for Overall Health, Radiance, Strong Bones & Immunity (Veg) Pack of 30 Tablets",
+        "description": "It will clear your dark spots and take care of skin",
+        "rating": 3.5,
+        "images": [
+            {
+                "image": "/assests/img/Webp/product_01.png"
+            }
+        ],
+        "category": "Beauty",
+        "seller": "Flipkart",
+        "stock": 9,
+        "numOfReviews": 5,
+        "reviews": []
+    },
+    {
+        "name": "Paracetamol",
+        "price": 245.67,
+        "smallDescription":"Multivitamin with Biotin, Vitamin C & 21 vital Nutrients for Overall Health, Radiance, Strong Bones & Immunity (Veg) Pack of 30 Tablets",
+        "description": "Introduction. Paracetamol is a commonly used medicine that can help treat pain and reduce a high temperature (fever). It's typically used to relieve mild or moderate pain, such as headaches, toothache or sprains, and reduce fevers caused by illnesses such as colds and flu.",
+        "rating": 4.5,
+        "images": [
+            {
+                "image": "/assests/img/Webp/paracetamol.png"
+            },
+            {
+                "image": "/assests/img/Webp/paracetamol.png"
+            }
+        ],
+        "category": "Tablets",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    }
+]

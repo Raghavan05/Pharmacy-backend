@@ -1,0 +1,23 @@
+{
+    "orderItems":[
+        {
+            "product":"65250c987231d4128a72a830",
+            "name":"Lenovo IdeaPad Slim 3 Laptop",
+            "price":"250.45",
+            "image":"product_1234567890.jpg",
+            "quantity":1
+        }
+    ],
+    "itemsPrice":250.45,
+    "taxPrice":0.14,
+    "shippingPrice":25,
+    "totalPrice":275.59,
+    "shippingInfo":{
+        "address":"345 main road",
+        "city":"Madurai",
+        "country":"India",
+        "postalCode":"625018",
+        "phoneNo":"9345890692"
+    }
+
+}
