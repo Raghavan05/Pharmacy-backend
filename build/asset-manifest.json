@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.107ee26c.css",
+    "main.js": "/static/js/main.6275b646.js",
+    "static/js/787.d5fa4d18.chunk.js": "/static/js/787.d5fa4d18.chunk.js",
+    "static/media/carousel2.webp": "/static/media/carousel2.23dde0576c4021e9efc8.webp",
+    "static/media/paracetamol.webp": "/static/media/paracetamol.d821255e9c265c8d5ba6.webp",
+    "static/media/sm-carousel3.webp": "/static/media/sm-carousel3.8804286030d90a614461.webp",
+    "static/media/sm-carousel2.webp": "/static/media/sm-carousel2.d2c8bd19b68fb4b0ee51.webp",
+    "static/media/some-pills-spray-pill-bottle-needles-light-cyan-background-top-view-space-text.webp": "/static/media/some-pills-spray-pill-bottle-needles-light-cyan-background-top-view-space-text.91d628702383a7b55dfd.webp",
+    "static/media/carousel3.webp": "/static/media/carousel3.146c069c4fe3051842e6.webp",
+    "static/media/carousel1.webp": "/static/media/carousel1.8efb53668d898b8c6ea0.webp",
+    "static/media/banner-home.webp": "/static/media/banner-home.4d410c2cac507812ec65.webp",
+    "static/media/Model-1.webp": "/static/media/Model-1.f70bb279f45459863aa3.webp",
+    "static/media/sm-carousel1.webp": "/static/media/sm-carousel1.32721e8d8715882a4cc7.webp",
+    "static/media/blue-bg-banner.webp": "/static/media/blue-bg-banner.cf502b173b0db3f7bd5b.webp",
+    "static/media/banner-2.webp": "/static/media/banner-2.7a84a0c2be5990945bed.webp",
+    "static/media/prescription-img.svg": "/static/media/prescription-img.fbeb161f37bbb58360127f2eb9236c8e.svg",
+    "static/media/Payment_Success.png": "/static/media/Payment_Success.63677b470c206c608445.png",
+    "index.html": "/index.html",
+    "main.107ee26c.css.map": "/static/css/main.107ee26c.css.map",
+    "main.6275b646.js.map": "/static/js/main.6275b646.js.map",
+    "787.d5fa4d18.chunk.js.map": "/static/js/787.d5fa4d18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.107ee26c.css",
+    "static/js/main.6275b646.js"
+  ]
+}
