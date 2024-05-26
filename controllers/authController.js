@@ -113,9 +113,9 @@ export const loginUser = catchAsyncError(async (req, res, next) => {
     }
 
     // // Check if the user's email is verified
-    if (!user.isVerified) {
-        return next(new ErrorHandler('Email not verified. Please verify your email first.', 401));
-    }
+    // if (!user.isVerified) {
+    //     return next(new ErrorHandler('Email not verified. Please verify your email first.', 401));
+    // }
 
     // Check the password
     if (!await user.isValidPassword(password)) {
