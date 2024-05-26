@@ -28,7 +28,6 @@ app.use('/api/v1',payment);
 
 if(process.env.NODE_ENV === 'production'){
     const indexPath = path.resolve(__dirname,'../client/build/index.html');
-    console.log("Resolved index.html path:", indexPath);
     app.use(express.static(path.join(__dirname,'../client/build')));
     app.get('*',(req,res)=>{
         res.sendFile(indexPath);
