@@ -28,7 +28,7 @@ app.use('/api/v1',payment);
 
 // Serve static files in production
 if (process.env.NODE_ENV === 'production') {
-    const buildPath = path.join(__dirname, './server/build');
+    const buildPath = path.join(__dirname, '../server/build');
     console.log("Resolved index.html path:", path.resolve(buildPath, 'index.html'));
     
     app.use(express.static(buildPath));
