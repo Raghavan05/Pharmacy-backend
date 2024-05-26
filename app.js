@@ -26,16 +26,13 @@ app.use('/api/v1',auth);
 app.use('/api/v1',order);
 app.use('/api/v1',payment);
 
-// Serve static files in production
-if (process.env.NODE_ENV === 'production') {
-    const buildPath = path.join(__dirname, '../server/build');
-    console.log("Resolved index.html path:", path.resolve(buildPath, 'index.html'));
-    
-    app.use(express.static(buildPath));
-    app.get('*', (req, res) => {
-      res.sendFile(path.resolve(buildPath, 'index.html'));
-    });
-  }
+if(process.env.NODE_ENV === "production"){
+    app.use(express.static(path.join(__dirname,'./build')))
+    app.get('*',(req,res)=>{
+        res.sendFile(path.resolve(__dirname,'./build/index.html'))
+    })
+}
+
 
 app.use(errorMiddleware)
 
