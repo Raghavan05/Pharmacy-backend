@@ -12,7 +12,7 @@ import path from 'path';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-dotenv.config({path:path.join(__dirname,"config/config.env")});
+dotenv.config({path:path.join(__dirname,'config/config.env')});
 
 
 const app = express();
@@ -26,12 +26,16 @@ app.use('/api/v1',auth);
 app.use('/api/v1',order);
 app.use('/api/v1',payment);
 
-if(process.env.NODE_ENV === "production") {
-    app.use(express.static(path.join(__dirname, '../client/build')));
-    app.get('*', (req, res) =>{
-        res.sendFile(path.resolve(__dirname, '../client/build/index.html'))
-    })
-}
+// Serve static files in production
+if (process.env.NODE_ENV === 'production') {
+    const buildPath = path.join(__dirname, '../client/build');
+    console.log("Resolved index.html path:", path.resolve(buildPath, 'index.html'));
+    
+    app.use(express.static(buildPath));
+    app.get('*', (req, res) => {
+      res.sendFile(path.resolve(buildPath, 'index.html'));
+    });
+  }
 
 app.use(errorMiddleware)
 
